@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+header{
+  position: static;
+  float: none;
+}
+section{
+  float: none;
+}
+
+h1 a{
+  color: black;
+}
+a:hover{
+  font-weight: inherit;
+}
